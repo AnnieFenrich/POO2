@@ -1,4 +1,4 @@
-package exercicio.composicaoEheranca;
+package exercicio.composicaoEstrategy;
 
 public abstract class Defender {
 	public abstract double defende();

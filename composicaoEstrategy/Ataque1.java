@@ -1,4 +1,4 @@
-package exercicio.composicaoEheranca;
+package exercicio.composicaoEstrategy;
 
 public class Ataque1 extends Atacar {
 

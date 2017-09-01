@@ -1,4 +1,4 @@
-package exercicio.composicaoEheranca;
+package exercicio.composicaoEstrategy;
 
 public class BatalhaDeRobos {
 	private Correr correr;
